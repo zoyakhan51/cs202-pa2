@@ -1,7 +1,5 @@
 CS 202 - Programming Assignment 2
 
-This repository contains my implementation of Binary Search Trees (BST) and various tree traversal algorithms in C++. The assignment focuses on implementing key BST operations, tree traversals, and an applicant shortlisting system using different traversal strategies.
-
 📌 Features & Concepts Covered
 
 1️. Binary Search Tree (BST) Implementation
