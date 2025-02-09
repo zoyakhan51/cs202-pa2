@@ -1,0 +1,27 @@
+Ignore compiled binary files
+
+*.out
+*.exe
+*.o
+*.obj
+
+Ignore build artifacts
+
+/build/
+/dist/
+/CMakeFiles/
+
+Ignore system files
+
+.DS_Store
+Thumbs.db
+
+Ignore temporary files
+
+*.tmp
+*.log
+*.swp
+
+Ignore version control metadata
+
+.git/
